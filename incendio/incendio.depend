@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1728224221 source:c:\users\natha\downloads\programação paralela\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<unistd.h>
+	<time.h>
+	"functions.h"
+
+1728245177 c:\users\natha\downloads\programação paralela\functions.h
+	<pthread.h>
+
+1728245158 source:c:\users\natha\downloads\programação paralela\main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<time.h>
+	"functions.h"
+
